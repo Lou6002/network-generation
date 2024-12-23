@@ -1,0 +1,4 @@
+(library
+ (name terrain)
+ (public_name tipe.terrain)
+ (libraries graph))
