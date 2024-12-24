@@ -1,0 +1,3 @@
+(library
+ (name unionfind)
+ (public_name tipe.unionfind))
